@@ -1,2 +1,2 @@
 # postgresql_projects
-it contains projects in SQL using postgreSQL DBMS
+it contains projects in SQL using postgreSQL
